@@ -2,9 +2,6 @@
 
 Este repositório foi criado com o objetivo de servir como um recurso para estudo e prática da linguagem **C**, um dos pilares da programação moderna. Aqui, você encontrará exemplos práticos, exercícios e conceitos fundamentais para o aprendizado e o domínio da linguagem.
 
-## **Motivação**
-A linguagem C é amplamente utilizada no desenvolvimento de sistemas e programas de alto desempenho. Este repositório busca ajudar estudantes e iniciantes a adquirir uma base sólida em C, oferecendo uma abordagem prática para a programação.
-
 ## **Conteúdos**
 - Estrutura básica de programas em C.
 - Conceitos fundamentais:
