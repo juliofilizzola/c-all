@@ -23,7 +23,7 @@ Este repositório está configurado para trabalhar com o **CLion** (IDE da JetBr
 ## **Como Usar**
 1. Clone este repositório na sua máquina:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone git@github.com:juliofilizzola/c-all.git
    ```
 2. Abra e configure o projeto no **CLion** (ou outra IDE de sua preferência com suporte a C).
 3. Explore os diretórios e inicie seu aprendizado.
