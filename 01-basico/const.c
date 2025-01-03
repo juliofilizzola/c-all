@@ -12,5 +12,4 @@ int main(void) {
     printf("%.2f\n", TAMANHO);
 
     return 0;
-
 }
