@@ -9,7 +9,7 @@ int main() {
     int n = 10;
     int i;
     // Inicia um array alocado dinâmicamente com tamanho n
-    int *valores = (int*) malloc(sizeof(int)*n);
+    int *valores = (int *) malloc(sizeof(int) * n);
 
     // Cria a variável do tipo FILE* e abre o arquivo para leitura em seguida
     FILE *arquivo;
